@@ -1,5 +1,5 @@
 ---
-thumbnail: ''
+thumbnail: "/uploads/atlantean-colored.jpeg"
 title: 'ChronoToken: A new asset class'
 date: 2019-01-04
 categories:
