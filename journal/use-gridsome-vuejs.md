@@ -1,6 +1,6 @@
 ---
 date: 2021-04-02
-title: What the deal is with Chronoverse
+title: Who is Chronoverse for?
 author: Nichlas W. Andersen
 excerpt: 'Chronoverse is about change and technology and possibilities. '
 
