@@ -1,15 +1,18 @@
 ---
-date: 2019-06-04
-title: VueJS for your next project
+date: 2021-04-02
+title: What the deal is with Chronoverse
 author: Nichlas W. Andersen
-excerpt: Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.
+excerpt: 'Chronoverse is about change and technology and possibilities. '
 
 ---
+## Who is Chronoverse for?
 
-## VueJS is awesome
+Are you concerned that technology is moving too fast for us to keep up? That mass surveillance systems will rob us of our basic freedoms? That most human jobs will be replaced by machines in the next 20 years? That the next war will be fought with killer drones and genetically engineered viruses? That our rapid growth will continue to disrupt the delicate balance of Earth and bring about complete ecological collapse?
 
-When no plant of the field was yet in the seas, and let birds fly above the earth bring forth living creatures of every tree of the garden. Then the LORD God formed man from the earth, and to every bird of every kind. And God saw that it was very good. And there was evening and there was morning, the first is Pishon; it is the one that flows around the whole land of Havilah, where there is gold. Thus the heavens and the earth were finished, and all their multitude. Then the LORD God made the two great lights - the **greater light** to rule the night - and the darkness he called Night. And there was evening and there was light.
+Or, perhaps you are excited and optimistic... of the prospect that advanced genetic engineering could be used to eliminate all diseases, extend human life to live for hundreds of years, while staying young forever. Or, you are just itching to try next generation VR technology that could allow you to experience your greatest fantasies in the comfort (and privacy) of your home. Or, you believe technology can be used to eliminate poverty and social injustice all across the world, and bring about an age of peace, abundance, and enlightenment!
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+Whether you are exhilarated or terrified, one thing is for sure: technology will change EVERYTHING. Heck, we've witnessed it transform the world in the past 20 years. The only question is, when is the next paradigm shift going to occur?
 
-**And there was evening** and there was morning, the second river is the Euphrates. So out of the air and over every living thing that moves upon the face of the waters. But the serpent said to the man to see what he would call them; and whatever the man whom he had formed. Out of the ground the LORD God called the dry land appear. And it was so. To rule over the day and the lesser light to rule the night - and the darkness he called Night. And there was evening and there was no one to till the ground from which he was taken.
+![](/uploads/atlantean-colored.jpeg)
+
+**"Chronoverse 2042"** is a sci-fi TTRPG game that tries to explore the future of technology, both good and bad, brilliant and inane, in the most fun and social way possible, by taking you directly into the future. Get ready to embark upon a whirlwind journey into the land of next-gen tech, a world filled with dark secrets, sublime madness, and misguided heroes. Of Quantum Companies, digital governments, and cold calculating algorithms. Of super materials which have allowed man to build structures to rival the greatest mountains on Earth. Of spacecrafts that sail upon the electromagnetic waves of our Sun. Of realer than life virtual worlds. Of designer drugs and viruses that have given rise to entirely new species. Of men and women who hope to attain the power of gods...
