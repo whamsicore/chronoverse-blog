@@ -4,7 +4,7 @@
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
                     <img 
-                        src="../../static/logo.svg"
+                        src="../../static/logo.jpg"
                         :alt="settings.site_name" 
                         class="logo"
                     />
@@ -51,7 +51,7 @@ export default {
     text-decoration: none;
 }
 .logo {
-    height: 1.5rem;
+    height: 8rem;
 }
 .site-name {
     font-size: 0.9rem;
