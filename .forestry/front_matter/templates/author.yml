@@ -3,15 +3,26 @@ label: Author
 hide_body: true
 fields:
 - type: text
-  label: Name
   name: title
   config:
     required: true
+  label: Name
+  description: Payton Lee
 - type: textarea
   name: bio
   label: Bio
   config:
     required: true
+  description: Payton Lee has zero qualifications for writing Sci-fi. But he's somehow
+    set his mind to doing it, because allegedly, he saw a vision of a beautiful ancient
+    civilizations, which he promptly labeled the Atlanteans, who achieved near singularity
+    level of technology, and found a way to not be seduced by its power and become
+    immortal gods. Instead they chose to slumber under the sea, for what they thought
+    would be all eternity. From that day he saw that vision onward, Payton Lee became
+    enthralled in the prospect of creating a sci-fi universe to tell that story to
+    bring the Atlanteans to life. That sci-fi universe is called the Chronoverse.
+    When he's not thinking about Chronoverse you can find him trying to convince his
+    friends that Crypto and NFTs are the future!
 - type: file
   name: avatar
   label: Avatar
