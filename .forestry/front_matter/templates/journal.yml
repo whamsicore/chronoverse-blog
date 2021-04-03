@@ -32,8 +32,10 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Payton Lee
+    - Chancegamer
+    - Whamsicore
   label: Author
-  default: Nichlas W. Andersen
+  default: Payton Lee
 pages:
 - journal/macos-development-environment.md
