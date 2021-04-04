@@ -1,7 +1,7 @@
 ---
 date: 2021-04-04
 title: The Setting
-author: Payton Lee
+author: Chancegamer
 excerpt: Chronoverse is a sci-fi Universe that tries to explore the future of technology, both good and bad, brilliant and inane, in the most fun and social way possible, by taking you directly into the future.
 
 ---
