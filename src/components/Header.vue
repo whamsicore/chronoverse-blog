@@ -12,7 +12,7 @@
             </div>
             <nav class="nav right">
                 <g-link class="nav__link" to="/journal">Blog</g-link>
-                <g-link class="nav__link" to="/contact">Say Hi!</g-link>
+                <g-link class="nav__link" to="/contact">Contact</g-link>
             </nav>
         </div>
     </header>

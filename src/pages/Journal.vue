@@ -3,8 +3,8 @@
 
     <div class="container">
       <div class="journal-hero">
-        <h1 class="journal-header">
-          a wise person once said...
+        <h1 class="blog-header">
+          Sci-fi stories every week. Let the adventure begin...
         </h1>
       </div>
     </div>
@@ -53,9 +53,10 @@ export default {
   text-align: center;
   color: var(--color-base-1);
 }
-.journal-header {
+.blog-header {
   font-size: 3rem;
   font-weight: 700;
+  color: #aaa;
   padding: 0;
   margin: 0;
 }

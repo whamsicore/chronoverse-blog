@@ -23,8 +23,9 @@
             <div class="year-container">
               <span class="label">Year</span>
               <div v-html="$page.post.date"/>
-            </div>
-          </div>
+            </div> <!-- year-container -->
+
+          </div> <!-- project-info -->
         </div>
 
         <div v-html="$page.post.content" class="content" />

@@ -5,8 +5,8 @@ title: ChronoToken Collectibles (Smart NFTs)
 category: Identity
 thumbnail: "/uploads/courtroom2.jpeg"
 categories:
-- photography
-- pink
+- NFT
+- Governance
 project_bg_color: ''
 project_fg_color: ''
 
