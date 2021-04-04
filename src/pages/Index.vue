@@ -22,7 +22,7 @@ query Posts {
       }
     }
   },
-  journals: allJournalPost (perPage: 2) {
+  journals: allJournalPost (perPage: 4) {
     edges {
       node {
         id
