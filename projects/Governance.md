@@ -1,14 +1,19 @@
 ---
-date: 2019-05-16
-year: 2019
-title: ChronoToken Collectibles (Smart NFTs)
+date: 2021-04-01
+title: Crypto + Government
 category: Identity
 thumbnail: "/uploads/courtroom2.jpeg"
 categories:
-- NFT
-- Governance
+- Futurism
+- Sci-fi
+- Crypto Futurism
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-Chronoverse LLC plans to release a new class of collectible assets, in the form of NFTs, called **Chrono-Capsules**; And an accompanying fungible asset called **Chrono-Token**, via an ERC 1155 smart contract, in order to provide new ways for collectors to participate in the growth and proliferation of the **Chronoverse**, a Science Fiction Universe centered around exploring next-generation technologies such as cryptocurrencies, smart contracts, and NFTs. We envision a world where Bitcoin and Ethereum rule the market, while Smart Contracts have been wholesale adopted to form the bedrock of the new global government.
+![](/uploads/courtroom2.jpeg)
+
+Smart Contracts have become the foundation of a new digital world government. Millions of people can take part in a virtual democracy in VR. But behind the veil of prosperity after a wave of mass automation, lurks tensions and the threat of total war. 
+
+Despite media coverups, a great conflict is brewing, between the Futurists who hold progress to be sacred, and Humanists who would rather die than give up what they believe makes them human... 
+

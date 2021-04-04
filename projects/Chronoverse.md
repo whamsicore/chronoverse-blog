@@ -1,12 +1,16 @@
 ---
 thumbnail: "/uploads/chronoverse_vistafinal.jpg"
-title: A sci-fi Universe based in The Bay
-date: 2019-02-06
+title: Scifi + Crypto
+date: 2021-04-02
 categories:
-- sci-fi universe
-- sci-fi art
+- Sci-Fi Universe
+- Art
 project_bg_color: ""
 project_fg_color: ""
 
 ---
-You and your friends are caught in a war between the Futurist and Humanists. Each of you must pick a side, and will be tested for the conviction in your beliefs. Do you believe that progress is supreme, or that certain human values need to be protected?
+
+The Chronoverse is based on our world, except it is fast-forwarded by quantum technology into a fantastic future. Here you will find that Bitcoin and Ethereum rule the market, while a host of other digital currencies have become integrated with every part of our daily lives.
+
+![](/uploads/chronoverse_vistafinal.jpg)
+

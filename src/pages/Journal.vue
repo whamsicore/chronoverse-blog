@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="blog-header">
-          Sci-fi stories every week. Let the adventure begin...
+          Sci-fi stories every week...
         </h1>
       </div>
     </div>
