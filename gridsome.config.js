@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Chronoverse",
+  siteUrl: `https://www.chronoverse.io`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - Sci-fi Universe",
+  siteDescription: "A portal into a sci-fi universe",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
@@ -32,7 +32,7 @@ module.exports = {
         }
       }
     }
-  ],
+  ], // ZZ: Don't know if this is being used or not. 
   transformers: {
     remark: {
       plugins: ["@gridsome/remark-prismjs"]
