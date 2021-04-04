@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Banana
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/courtroom2.jpeg"
 categories:
 - photography
 - pink
@@ -11,6 +11,4 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
-
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+Chronoverse LLC plans to release a new class of collectible assets, in the form of NFTs, called **Chrono-Capsules**; And an accompanying fungible asset called **Chrono-Token**, via an ERC 1155 smart contract, in order to provide new ways for collectors to participate in the growth and proliferation of the **Chronoverse**, a Science Fiction Universe centered around exploring next-generation technologies such as cryptocurrencies, smart contracts, and NFTs. We envision a world where Bitcoin and Ethereum rule the market, while Smart Contracts have been wholesale adopted to form the bedrock of the new global government.
