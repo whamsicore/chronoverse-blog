@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/roboknight_ceremony.jpg"
-title: A New NFT Platform
-date: 2019-01-03
+title: New NFT Platform
+date: 2021-04-01
 categories:
 - Luismi
 - Roboknights

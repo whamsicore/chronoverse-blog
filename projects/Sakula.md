@@ -1,11 +1,10 @@
 ---
 thumbnail: "/uploads/atlantean-colored.jpeg"
-title: Crypto + Atlantis
-date: 2021-03-03
+title: Transitory Token
+date: 2021-04-02
 categories:
-- Crypto
+- Atlantis
 - NFT
-- New Token
 project_bg_color: ''
 project_fg_color: ""
 

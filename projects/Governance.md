@@ -1,12 +1,12 @@
 ---
-date: 2021-04-01
-title: Crypto + Government
+date: 2021-04-03
+title: Crypto Futurism
 category: Identity
 thumbnail: "/uploads/courtroom2.jpeg"
 categories:
 - Futurism
 - Sci-fi
-- Crypto Futurism
+- Crypto
 project_bg_color: ''
 project_fg_color: ''
 

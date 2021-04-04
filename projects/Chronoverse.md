@@ -1,10 +1,11 @@
 ---
 thumbnail: "/uploads/chronoverse_vistafinal.jpg"
 title: Scifi + Crypto
-date: 2021-04-02
+date: 2021-04-04
 categories:
-- Sci-Fi Universe
+- Sci-Fi 
 - Art
+- Technology
 project_bg_color: ""
 project_fg_color: ""
 
