@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: ChronoToken Collectibles (Smart NFTs)
 category: Identity
 thumbnail: "/uploads/courtroom2.jpeg"
 categories:
