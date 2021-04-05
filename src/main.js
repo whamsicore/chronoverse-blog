@@ -1,12 +1,6 @@
 import DefaultLayout from "~/layouts/Default.vue";
 import settings from "../data/theme.json";
-import "@/assets/code-highlight.css"
-import VueAnalytics from 'vue-analytics';
-//and then use it in main.js
-Vue.use(VueAnalytics, {
-    id: '267671387',
-    router
-}
+import "@/assets/code-highlight.css";
 
 export default function(Vue, { head }) {
   

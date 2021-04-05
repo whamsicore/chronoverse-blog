@@ -31,7 +31,15 @@ module.exports = {
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
         }
       }
-    }
+    },
+    // {
+    //     use: 'gridsome-plugin-gtag',
+    //     options: {
+    //         config: {
+    //             id: 'G-P64N7PKXLL',
+    //         },
+    //     },
+    // }
   ], // ZZ: Don't know if this is being used or not. 
   transformers: {
     remark: {
