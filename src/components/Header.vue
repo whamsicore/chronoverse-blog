@@ -1,5 +1,17 @@
 <template>
-    <header class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
+    <header :click="clickEvent" class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
+
+        <ClientOnly>
+            <!-- Global site tag (gtag.js) - Google Analytics
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-P64N7PKXLL"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-P64N7PKXLL');
+            </script> -->
+        </ClientOnly>
         <div class="container">
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
@@ -25,8 +37,18 @@ export default {
         logo: require("../../static/logo.svg"),
         settings: require("../../data/theme.json")
     }
+  }, 
+  methods: {
+    clickEvent: function () {
+      this.$gtag.event('clicked', { method: 'Google' })
+    },
+
+  }, // methods
+  mounted() {
+    this.$gtag.event('page_load', { method: 'Google' }) // tag event
+
   }
-}
+} // default
 </script>
 
 <style scoped>

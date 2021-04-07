@@ -32,13 +32,23 @@ module.exports = {
         }
       }
     },
+    {
+        use: 'gridsome-plugin-gtag',
+        options: {
+            config: {
+                id: process.env.GOOGLE_ANALYTICS_ID,
+            },
+        },
+    },
     // {
-    //     use: 'gridsome-plugin-gtag',
-    //     options: {
-    //         config: {
-    //             id: 'G-P64N7PKXLL',
-    //         },
-    //     },
+    //   use: '@gridsome/plugin-google-analytics',
+    //   options: {
+    //     // id: 'UA-193823822-1' // Chrono3
+    //     // id: 'G-BL5NWJQ786' // Chrono2
+    //     // id: '2409188968'
+    //     // id: 'G-P64N7PKXLL'
+    //     // id: '267671387'
+    //   }
     // }
   ], // ZZ: Don't know if this is being used or not. 
   transformers: {
