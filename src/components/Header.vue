@@ -45,7 +45,7 @@ export default {
 
   }, // methods
   mounted() {
-    this.$gtag.event('page_load', { method: 'Google' }) // tag event
+    this.$gtag.event('page_bubbly', { method: 'Google' }) // tag event
 
   }
 } // default

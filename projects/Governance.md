@@ -2,7 +2,7 @@
 date: 2021-04-03
 title: Crypto Futurism
 category: Identity
-thumbnail: "/uploads/courtroom2.jpeg"
+thumbnail: "/uploads/courtroom3.jpg"
 categories:
 - Futurism
 - Sci-fi
@@ -11,7 +11,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/courtroom2.jpeg)
+![](/uploads/courtroom3.jpg)
 
 Smart Contracts have become the foundation of a new digital world government. Millions of people can take part in a virtual democracy in VR. But behind the veil of prosperity after a wave of mass automation, lurks tensions and the threat of total war. 
 
