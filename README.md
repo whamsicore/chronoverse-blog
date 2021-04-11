@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://file-xidfrcjkaq.now.sh/" height="240">
   <h3 align="center">Chronoverse </h3>
   <p align="center">A Sci-fi Universe<p>
 </p>
